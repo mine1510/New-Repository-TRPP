@@ -1,2 +1,2 @@
 Hello World!!!sv
-zdarova
+zda
